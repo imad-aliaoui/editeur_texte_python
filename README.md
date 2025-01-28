@@ -23,3 +23,6 @@
   - Choisissez une taille dans la liste.
 ### Redimensionner la fenêtre :
   - Ajustez la taille de la fenêtre, et la zone de texte s'étendra pour s'adapter.
+
+
+## Imad ALIAOUI
